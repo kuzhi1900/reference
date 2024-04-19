@@ -8,6 +8,7 @@ tags:
     - editor
     - terminal
     - shortcut
+    - vim
 categories:
     - Toolkit
 intro: |
